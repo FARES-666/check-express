@@ -1,0 +1,11 @@
+nav {
+  text-align: center;
+}
+li{
+    list-style: none;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
